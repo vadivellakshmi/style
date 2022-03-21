@@ -43,7 +43,7 @@ p{
 /*attribute selector*/
   [id="footer"]
     {
-        text-align:center;font-size:larger;color:blue;margin-top:40%; background-color:aquamarine;
+        text-align:center;font-size:larger;color:blue;margin-top:40%; background-color:aquamarine; clear:both:
     }
 
 
